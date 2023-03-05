@@ -11,8 +11,11 @@ About Game:
 
 
 How to play:
-  Tap the square which has turned red on the screen. The score is counted per tap until time runs out.
+  Tap the square which has turned red on the screen.
+  The score is counted per tap until time runs out.
   Every Tap gives you a point as well as extra +0.75s of time.
+  
+  
   
 ![Gameplay](https://user-images.githubusercontent.com/104684412/222948030-01df59e7-808b-418f-9078-3c2e9f959dae.jpg)
 
